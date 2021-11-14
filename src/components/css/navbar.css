@@ -1,0 +1,24 @@
+.navbar {
+  margin: 0;
+  /* background-color: gray; */
+  padding: 2rem 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-left a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.4rem;
+}
+
+.navbar-right a {
+  text-decoration: none;
+  color: #333;
+  padding: 0 1rem;
+  font-size: 1.2rem;
+}
+
+.scroll {
+  background-color: red;
+}
